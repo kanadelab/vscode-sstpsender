@@ -3,7 +3,7 @@
   "displayName": "SSTP sender",
   "description": "sakura",
   "author": "kanadelab",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.76.0"
   },
@@ -20,7 +20,7 @@
     "commands": [
       {
         "command": "sstpsender.send",
-        "title": "さくらスクリプトをゴーストに送信"
+        "title": "%sstpsender-send-command%"
       }
     ],
     "menus": {
